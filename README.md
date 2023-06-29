@@ -1,4 +1,4 @@
 # first_repo
 This is my first repository in Github. Hopefully, it will encourage me to learn data science more.
 
-print("Hello Graveo. You can do it")
+Read me. Thank you.
